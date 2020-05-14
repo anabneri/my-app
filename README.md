@@ -1,6 +1,7 @@
 # simple-java-maven-app
 
-This repository is for the
+this repository is for the Talk **Improve your Java Applications in Intellij Idea** 
+
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
 
