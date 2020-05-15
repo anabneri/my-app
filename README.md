@@ -1,4 +1,4 @@
-# demo-improve-java-applications
+# :zap: Demo-improve-java-applications
 
 this repository is for the Talk **Improve your Java Applications in Intellij Idea** 
 
