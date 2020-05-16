@@ -1,6 +1,6 @@
 # :zap: Demo-improve-java-applications
 
-this repository is for the Talk **Improve your Java Applications in Intellij Idea** 
+this repository is for the Talk **Improve your [Java Applications in Intellij Idea](https://docs.google.com/presentation/d/1d4YvpCfgT5deyJp806CaCiXTBL3h3Kggj5bHPoSrKMY/edit?usp=sharing)** 
 
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
