@@ -8,7 +8,9 @@ public class App
 
     private final String message = "Hello World!";
 
-    public App() {}
+    public App() {
+        System.out.println("teste");
+    }
 
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
@@ -17,5 +19,7 @@ public class App
     private final String getMessage() {
         return message;
     }
+
+
 
 }
