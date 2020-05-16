@@ -1,4 +1,4 @@
-# simple-java-maven-app
+# :zap: Demo-improve-java-applications
 
 this repository is for the Talk **Improve your Java Applications in Intellij Idea** 
 
